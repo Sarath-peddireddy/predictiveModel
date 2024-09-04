@@ -1,0 +1,11 @@
+# Core Streamlit library
+streamlit>=1.0.0
+
+# Library for loading and saving machine learning models
+joblib
+
+# Include other libraries needed by your app or your model
+pandas
+numpy
+scikit-learn
+matplotlib  # If you're using any plotting in your app
